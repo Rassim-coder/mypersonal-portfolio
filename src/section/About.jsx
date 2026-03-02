@@ -36,9 +36,7 @@ export const About = () => {
     <section id="about" className="py-32 relative overflow-hidden">
         
         <motion.div 
-        initial={{ opacity: 0, translateX: "-100%" }}
-        whileInView={{ opacity: 1, translateX: 0 }}
-        transition={{ duration: 1.5 }}
+    
         className="container mx-auto px-6 relative z-10">
             <div className="grid lg:grid-cols-2 gap-16 items-center">
                 {/*left column*/}
