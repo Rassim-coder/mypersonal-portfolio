@@ -24,8 +24,8 @@ const projects = [
         description: "A web application for Air Algerie company, managing employee leave requests.",
         image: "/airalgerie.png",
         tags: ["HTML", "CSS", "JavaScript", "Node.js", "Express.js", "PostgreSQL"],
-        link: "/",
-        github: "/",
+        
+        github: "https://github.com/Rassim-coder/airalgerie-leave-management",
     },
     {
         title: "Video editor portfolio",
